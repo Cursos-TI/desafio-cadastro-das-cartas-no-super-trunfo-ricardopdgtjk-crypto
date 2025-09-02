@@ -70,7 +70,7 @@ int main() {
 
  
 
-  //Dados da carta 1
+  //Dados da primeira carta
 
   printf("Carta 1\n");
 
@@ -106,7 +106,7 @@ int main() {
 
  
 
-//Dados da carta 2
+//Dados da segunda carta 
 
 printf("Carta 2\n");
 
